@@ -1,0 +1,19 @@
+{
+  "name": "vijaya-clinic",
+  "version": "1.0.0",
+  "description": "Vijaya Clinic & Advanced Diagnostic Centre - Premium Medical Demo Web Application",
+  "main": "server/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  },
+  "keywords": ["medical-clinic", "threejs", "gsap", "bootstrap5", "express"],
+  "author": "Vijaya Clinic Tech Team",
+  "license": "ISC"
+}
